@@ -3,7 +3,7 @@
 
 ## 概要
 自作ゲーム公開用リポジトリになります  
-プレイ用URL : https://yamayui1107.github.io/CKU/
+プレイ用URL : https://yamayui1107.github.io/CKU_PUZZLE/
   * スマホサイズのゲームに挑戦しました
   * ちなみに CKU とは自分の母校の大学の英名です
 <br>  
